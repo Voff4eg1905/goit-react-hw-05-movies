@@ -80,8 +80,6 @@ const Movie = () => {
           <Outlet />
         </Suspense>
       </AdditionalInfoCard>
-
-      <Outlet />
     </>
   );
 };
